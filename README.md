@@ -42,7 +42,7 @@ This project involves classifying posts from various Telegram channels into cate
 
 ## Requirements
 - Python 3.x
-- Libraries: pandas, numpy, scikit-learn, Elasticsearch, NLP, hazm
+- Libraries: pandas, numpy, scikit-learn, Elasticsearch, nltk, hazm
 
 ## How to Run
 1. Clone the repository.
